@@ -1,4 +1,5 @@
 # htmlbook-ru
 практические задания с htmlbook
 В каждой папке - отдельная задача
-корневая папка как и репозитроий d:\frontendoleg
+<br>
+корневая папка как и репозитроий <strong>d:\frontendoleg</strong>
